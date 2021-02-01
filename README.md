@@ -72,3 +72,10 @@ There are screens on:
 ## 关闭服务器
 
 连接到对应的session 输入`c_shutdown()` 
+
+
+
+## 更新服务器
+
+进入`server_script`文件夹运行`./update_dst.sh`
+
